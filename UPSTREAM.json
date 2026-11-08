@@ -1,0 +1,12 @@
+{
+  "repository": "https://github.com/NanmiCoder/MediaCrawler",
+  "commit": "43578918a2ae25353d862d4f791aaa0d9d7b5bfa",
+  "snapshot_date": "2026-11-08",
+  "local_changes": [
+    "修复网页状态中的 undefined 和空 Map 解析",
+    "支持创作者采集按页续传",
+    "保存并恢复独立登录态",
+    "记录二维码及异常页面以便本地诊断"
+  ],
+  "regression_tests_passed": 19
+}

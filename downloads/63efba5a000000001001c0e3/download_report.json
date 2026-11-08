@@ -1,0 +1,23 @@
+{
+  "verified_at": "2026-11-08T12:15:25.828077+08:00",
+  "creator_id": "63efba5a000000001001c0e3",
+  "creator_name": "1111",
+  "profile_posted_count": 675,
+  "raw_record_count": 676,
+  "unique_note_count": 675,
+  "duplicate_record_count": 1,
+  "listed_unique_note_count": 675,
+  "missing_note_ids": [],
+  "expected_image_count": 3793,
+  "saved_image_count": 3793,
+  "image_formats": {
+    ".jpg": 2346,
+    ".webp": 1447
+  },
+  "media_bytes": 383529726,
+  "missing_images": [],
+  "corrupt_images": [],
+  "partial_files": [],
+  "zero_byte_files": [],
+  "complete": true
+}

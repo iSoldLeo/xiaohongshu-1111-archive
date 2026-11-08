@@ -1,0 +1,77 @@
+{
+  "extraInfo": {
+    "fstatus": "follows",
+    "blockType": "DEFAULT"
+  },
+  "result": {
+    "success": true,
+    "code": 0,
+    "message": "success"
+  },
+  "basicInfo": {
+    "ipLocation": "美国",
+    "desc": "他就一俗人\n📮：fourones.xhs@gmail.com",
+    "imageb": "https://sns-avatar-qc.xhscdn.com/avatar/63efba5a000000001001c0e3.jpg?imageView2/2/w/540/format/webp",
+    "nickname": "1111",
+    "images": "https://sns-avatar-qc.xhscdn.com/avatar/63efba5a000000001001c0e3.jpg?imageView2/2/w/360/format/webp",
+    "redId": "fourones",
+    "gender": 0
+  },
+  "tags": [
+    {
+      "icon": "http://ci.xiaohongshu.com/icons/user/gender-male-v1.png",
+      "tagType": "info"
+    },
+    {
+      "tagType": "location",
+      "name": "UnitedStates"
+    },
+    {
+      "name": "旅行博主",
+      "tagType": "profession"
+    }
+  ],
+  "posted": 675,
+  "liked": 222458,
+  "collected": 155777,
+  "interactions": [
+    {
+      "name": "关注",
+      "count": "16",
+      "i18nCount": "16",
+      "show": true,
+      "type": "follows"
+    },
+    {
+      "type": "fans",
+      "name": "粉丝",
+      "count": "94373",
+      "i18nCount": "94.4K",
+      "show": true
+    },
+    {
+      "name": "获赞与收藏",
+      "count": "378235",
+      "i18nCount": "378.2K",
+      "type": "interaction"
+    }
+  ],
+  "tabPublic": {
+    "collectionNote": {
+      "display": true,
+      "lock": false,
+      "count": 59
+    },
+    "collectionBoard": {
+      "display": true,
+      "lock": false,
+      "count": 0
+    },
+    "collectionFile": {
+      "count": 0,
+      "display": true,
+      "lock": false
+    },
+    "collection": true
+  }
+}
